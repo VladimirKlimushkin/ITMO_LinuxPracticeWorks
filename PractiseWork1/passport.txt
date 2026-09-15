@@ -1,1 +1,27 @@
+-------------------------------------------
+        SERVER PASSPORT
+-------------------------------------------
 
+Host info:
+Forming date: 2026-09-15 14:23:07
+Hostname: debian-vm
+
+User info:
+Uset (whoami): user
+Sessions (who):
+user     pts/0        2026-09-15 14:20 (10.0.2.2)
+
+Work Directory and containing:
+Current dir: /home/user
+Directory containing:
+total 48
+drwxr-xr-x 5 user user 4096 Sep 15 14:20 .
+drwxr-xr-x 3 root root 4096 Sep 10 09:15 ..
+-rw------- 1 user user  812 Sep 15 14:20 .bash_history
+-rw-r--r-- 1 user user  220 Sep 10 09:15 .bash_logout
+-rw-r--r-- 1 user user 3526 Sep 10 09:15 .bashrc
+-rw-r--r-- 1 user user  807 Sep 10 09:15 .profile
+drwxr-xr-x 4 user user 4096 Sep 15 14:23 PASSPORT
+-rwxr-xr-x 1 user user 1204 Sep 15 14:22 script_passport.sh
+
+END
